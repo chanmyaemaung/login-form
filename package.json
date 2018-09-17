@@ -1,0 +1,15 @@
+{
+  "name": "login-form",
+  "version": "1.0.0",
+  "description": "HTML & CSS Login Form",
+  "main": "index.js",
+  
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Login",
+    "Form"
+  ],
+  "author": "Mr.Wire [Chan Lay]",
+  "license": "ISC"
+}
