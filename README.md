@@ -12,6 +12,7 @@
 - No involved javaScript!
 > Pure HTML ႏွင့္ CSS ကို အသံုးျပဳျပီး ေရးထားတာပဲျဖစ္ပါတယ္...။
 > Responsive Design ေတာ့ မဟုတ္ပါဘူး။
+
 > `အခ်ိန္ရတာနဲ႔` Up to date ျဖစ္ေအာင္ လုပ္ေပးသြားပါမယ္။
 
 ### Contact Via Social :
