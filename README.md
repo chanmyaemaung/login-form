@@ -3,7 +3,7 @@
 > ကြ်န္ေတာ္ နမူနာတည္ေဆာက္ထားတဲ့ ယခု Login Form ေလးကို...
 > ယူသံုးျပီး၊ ျပင္ဆင္ႏိုင္ပါတယ္...။
 
-![Screen Cast](/img/Login-Form.JPG)
+![`Screen Cast`](/img/Login-Form.JPG)
 
 ## Front-end
 - HTML
